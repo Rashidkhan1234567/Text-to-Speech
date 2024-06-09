@@ -44,7 +44,7 @@ body {
 img{
   position: absolute;
   width: 1370px;
-  height: 650px;
+  height: 100vh;
   z-index: -100;
   filter: blur(7px);
 }
